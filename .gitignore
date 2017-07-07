@@ -3,3 +3,4 @@ vendor/
 tests/coverage
 composer.phar
 composer.lock
+/nbproject/private/
